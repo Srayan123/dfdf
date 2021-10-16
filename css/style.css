@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+}
+.D {
+    width: 50%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+.UABB {
+    background-color: #A2FFE3;
+    position: absolute;
+    top: 500px;
+    left: 50px;
+    width: 240px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    border-radius: 35px;
+    border: 0px;
+}
+.UABI {
+    width: 70px;
+    position: absolute;
+    left: 150px;
+    top: 7px;
+}
+.RADB {
+        background-color: #A2FFE3;
+        position: absolute;
+        top: 500px;
+        right: 50px;
+        width: 240px;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: left;
+        border-radius: 35px;
+        border: 0px;
+}
+.CI {
+    width: 60px;
+    position: absolute;
+    left: 160px;
+    top: 0px;
+}

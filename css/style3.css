@@ -1,0 +1,10 @@
+body {
+    background: #04FDFF;
+    text-align: center;
+}
+.TA {
+    background-color: red;
+    width: 250px;
+    border-radius: 35px;
+    border: 0px;
+}
